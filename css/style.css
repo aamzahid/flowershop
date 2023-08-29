@@ -151,3 +151,23 @@ padding: 100px 429px 100px 0px;
     display: flex;
     gap: 24px;
 }
+
+/* about extra section  */
+.about-banner{
+    width: 1920px;
+    height: 500px;
+    background-color: azure;
+}
+.about-content{
+    display: flex;
+    gap: 70px;
+    align-items: center;
+    padding: 50px 240px 0px 240px;
+    
+}
+.about-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 16px 0px;
+}

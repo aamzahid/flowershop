@@ -140,3 +140,14 @@ background: rgba(229, 84, 115, 0.05);
 height: 420px;
 padding: 100px 429px 100px 0px;
 }
+
+/* insta style  */
+.instagram{
+    width: 1440px;
+    margin: 170px 240px 150px ;
+}
+
+.instagram-flowers{
+    display: flex;
+    gap: 24px;
+}

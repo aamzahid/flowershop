@@ -205,3 +205,32 @@ border: #FFF solid;
 border-radius: 8px;
 
 }
+
+/* footer  */
+.footer{
+    width: 1922px;
+height: 449px;
+background: #111010;
+text-align: center;
+}
+
+.footer-title{
+    font-size: 40px;
+    font-weight: 800;
+    color: #ffffff;
+    padding: 128px 0px 24px 0px;
+}
+
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+padding-bottom: 32px;
+font-size: 18px;
+font-weight: 400;
+}
+
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+padding-bottom: 128px;
+}

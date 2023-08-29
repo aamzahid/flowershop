@@ -115,3 +115,28 @@ figcaption{
     font-size: 24px;
     font-weight: 600;
 }
+
+/* sign up style  */
+.signup-banner{
+    width: 1922px;
+height: 620px;
+
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
+
+.signup-content{
+    display: flex;
+    gap: 186px;
+    
+}
+.sign-banner-info{
+    text-align: center;
+    padding: 230px 0px 183px 365px;
+}
+
+.signup-img{
+    width: 318px;
+height: 420px;
+padding: 100px 429px 100px 0px;
+}

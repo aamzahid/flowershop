@@ -171,3 +171,37 @@ padding: 100px 429px 100px 0px;
     font-weight: 400;
     padding: 16px 0px;
 }
+
+/* subscribe  */
+.subscribe-banner{
+    width: 1440px;
+height: 449px;
+border-radius: 8px;
+background-image: url("../images/Rectangle 9.png");
+background-repeat: no-repeat;
+margin: 128px 240px;
+padding-top: 122px;
+text-align: center;
+
+}
+
+
+.subscribe-form{
+    display: flex;
+    
+    gap: 16px;
+    padding: 30px 318px 121px ;
+
+}
+.subscribe-input{
+    width: 700px;
+height: 64px;
+color: rgba(39, 39, 39, 0.60);
+padding: 0px 0px 0px 22px;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+border: #FFF solid;
+border-radius: 8px;
+
+}

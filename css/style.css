@@ -4,6 +4,7 @@
 
     font-family: 'Lato', sans-serif;
 }
+ /* header style  */
 
 .banner{
     background: rgba(229, 84, 115, 0.10);
@@ -46,4 +47,71 @@
 .banner-img{
     width: 635px;
     height: 800px;
+}
+
+/* featured section style  */
+
+.featured{
+    width: 1440px;
+    margin: 170px 240px 150px ;
+    
+}
+.featured-info{
+    text-align: center;
+}
+.section-title{
+    color: #272727;
+    
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.featured-flowers{
+    display: flex;
+    gap: 24px;
+    padding-top: 48px;
+}
+
+.pink-tulip{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 110px 78px 0px;
+width: 310px;
+height: 428px;
+
+}
+.bouquet{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding: 117px 47px 51px;
+}
+.yellow-tulip{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+padding: 67px 75px 0px;
+}
+figcaption{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    padding-top: 32px;
+}
+
+.featured-2{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1440px;
+    height: 320px;
+    margin: 128px 240px;
+}
+.featured-2-items{
+    display: flex;
+    gap: 100px;
+    padding: 85px 175px;
+    text-align: center;
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-weight: 600;
 }
